@@ -3,10 +3,4 @@ Git is free software.
 dsdsdssss33333
 Creating a new branch is quick AND simple.dddd dev
 
-<<<<<<< HEAD
-
-e:/
-
-=======
-c
->>>>>>> 104d387e9d328437874542afafb3b859b9062269
+eee
